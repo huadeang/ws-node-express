@@ -2,5 +2,5 @@
 # compile 
 ./node_modules/.bin/tsc
 
-#Run
+# Run
 node ./dist/server/server.js
